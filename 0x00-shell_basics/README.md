@@ -1,1 +1,1 @@
-script that creates a directory named
+Task 0 . Where am I?

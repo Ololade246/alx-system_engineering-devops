@@ -1,3 +1,2 @@
 #!/bin/bash
-README.md
-Hello, World
+echo "Hello, World"
